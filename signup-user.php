@@ -106,7 +106,7 @@
                     <div class="form-group">
                         <input class="form-control button" type="submit" name="signup" value="Create Account" onclick="validateReg()">
                     </div>
-                    <div class="link login-link text-center">Already have an account? <a href="login-user.php">Login here</a></div>
+                    <div class="link login-link text-center">Already have an account? <a href="index.php">Login here</a></div>
                 </form>
             </div>
         </div>
